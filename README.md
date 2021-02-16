@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - **[javascript](https://www.javascript.com/)**
 
 ## 🖥️ Projeto
-O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações, ver o saldo de entrada e saída.
+O dev.finances é uma aplicação de controle financeiro desenvolvida durante a semana MARATONA DISCOVER da @rocketseat, mentorada pelo @maykbrito, nessa aplicação é posssível cadastrar e excluir transações, ver o saldo de entrada e saída.
 
 ## 🗒️ Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
